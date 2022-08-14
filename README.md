@@ -19,3 +19,5 @@ is the implementation where three ultrasonic sensors were used which detect obst
 that face the user from three different directions by alerting him/her using vibration and
 buzzer. This thesis is focused on the support for individuals with visual impairments to
 navigate indoors and outdoors.
+
+![new poster1 (1)](https://user-images.githubusercontent.com/61434616/184547224-4f363a9b-c11a-4fa1-863a-6a04ba894ac1.png)
